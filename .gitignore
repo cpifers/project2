@@ -1,0 +1,5 @@
+data/userhub.json
+data/userhub.json.tmp
+data/uploads/*
+!data/uploads/.gitkeep
+exports/
